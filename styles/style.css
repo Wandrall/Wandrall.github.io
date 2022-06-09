@@ -1,6 +1,5 @@
 html{
     background-color: rgb(1, 19, 68);
-    zoom: 130%;
 }
 img{
     position: relative;
@@ -38,4 +37,11 @@ h1{
 }
 .liens:hover{
     color: rgb(255, 0, 0);
+}
+#copyright{
+    font-size: 80%;
+    font-family: 'Lemon Milk', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    vertical-align: bottom;
 }
