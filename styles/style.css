@@ -38,7 +38,7 @@ h1{
 .liens:hover{
     color: rgb(255, 0, 0);
 }
-#copyright{
+.copyright{
     font-size: 80%;
     font-family: 'Lemon Milk', sans-serif;
     color: rgb(255, 255, 255);
